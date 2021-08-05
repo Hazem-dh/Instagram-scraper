@@ -7,7 +7,7 @@ with [Selenium](https://selenium-python.readthedocs.io) and store them in a Mong
 
 ## Installation
 
-1. Download and install [MongoDB] (https://www.mongodb.com/try/download/community)
+1. Download and install [MongoDB](https://www.mongodb.com/try/download/community)
 2. Either clone this repo or download all these files by going to _Code -> Download ZIP_.
 3. Open the terminal inside project folder and install the required packages
    ```sh
@@ -20,7 +20,7 @@ with [Selenium](https://selenium-python.readthedocs.io) and store them in a Mong
 2. Launch **chromedriver.exe**
 3. Run InstagramScraper.py with the desired parameters
    ```sh
-   InstagramScraper [database name] [hashtag][number of posts]
+   InstagramScraper [database name][hashtag][number of posts]
    ```
 4. A chrome window will automatically open, sit back and enjoy watching the posts being scrapped 
 
